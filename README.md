@@ -15,7 +15,6 @@
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
   
-[![Velog's Card](https://github-readme-velog-card.vercel.app/api?name=yuseong&theme=default)](https://velog.io/@yuseong)
 </div><br>
 
     
@@ -39,5 +38,5 @@
     
 
     <br/>
-</div><br>
+</div>
 </div>
