@@ -5,9 +5,9 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyes2&count_bg=%23CCEEFF&title_bg=%23D3D3D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![syes2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=transparent&hide_border=true&count_private=true)
+![syes2's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon&include_all_commits=true&theme=transparent&hide_border=true&count_private=true)
  
-<br>
+<br/>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
@@ -38,6 +38,6 @@
 
     
 
-    <br>
+    <br/>
 </div><br>
 </div>
