@@ -14,8 +14,7 @@
     <a href="https://velog.io/@yuseong">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/syes2/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/syes2/velog-readme-stats)
   
 </div><br>
 
