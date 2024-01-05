@@ -1,6 +1,6 @@
 <div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20syes2's%20GitHub%20👋&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20syes2's%20GitHub%20👋&fontAlign=60&fontSize=40&fontAlignY=40&color=gradient)
 ---
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyes2&count_bg=%23CCEEFF&title_bg=%23D3D3D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
